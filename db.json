@@ -1,0 +1,56 @@
+{
+  "alumnos": [
+    {
+      "id": "1",
+      "nombre": "Juan Perez",
+      "email": "juan@example.com",
+      "curso_id": "101"
+    },
+    {
+      "id": "2",
+      "nombre": "Maria Lopez",
+      "email": "maria@example.com",
+      "curso_id": "102"
+    },
+    {
+      "id": "fd40",
+      "nombre": "Test Axios User",
+      "email": "axios@test.com",
+      "curso_id": "101"
+    },
+    {
+      "id": "79dd",
+      "nombre": "Jose ",
+      "email": "mdskf@gmail.com",
+      "curso_id": "1"
+    },
+    {
+      "id": "7374",
+      "nombre": "dfas",
+      "email": "admin@mobiliari.com",
+      "curso_id": "1"
+    },
+    {
+      "id": "df87",
+      "nombre": "Test Alova User",
+      "email": "alova@test.com",
+      "curso_id": "102"
+    },
+    {
+      "id": "8b72",
+      "nombre": "Test Alova User 2",
+      "email": "alova2@test.com",
+      "curso_id": "102"
+    }
+  ],
+  "cursos": [
+    {
+      "id": "101",
+      "nombre_curso": "React Avanzado"
+    },
+    {
+      "id": "102",
+      "nombre_curso": "Node.js Básico"
+    }
+  ]
+}
