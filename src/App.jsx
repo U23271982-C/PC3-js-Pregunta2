@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import AlumnosAxios from './components/AlumnosAxios';
 import AlumnosAlova from './components/AlumnosAlova';
+import GestionMatriculas from './components/GestionMatriculas';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           } />
           <Route path="/axios" element={<AlumnosAxios />} />
           <Route path="/alova" element={<AlumnosAlova />} />
+          <Route path="/matriculas" element={<GestionMatriculas />} />
         </Routes>
       </div>
     </Router>

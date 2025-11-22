@@ -1,16 +1,13 @@
 # React + Vite
+## Ejercio 1:
+Crear una aplicación en react, con menú de opciones que permita gestionar los siguientes servicios
+Crear en un json server local, que aloje un archivo  json que administre datos para  alumnos , cursos.
+Crear un servicio para recuperar datos de alumnos, registrar un nuevo alumno  mediante axios  y mostrarlos en una tabla en el DOM
+Crear un servicio para recuperar datos dealumnos, registrar un nuevo alumno mediante alova  y mostrarlos en una tabla en el DOM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Usar en ambos Hooks tanto useEffect y UseState
+## Ejercio 2:
+Mediante un formulario y el uso de Hooks. genere al matricula de alumnos en 3 cursos del json server anterior.
+Debe mostrar los datos de las matriculas actualizados en el DOM.
+Gestionar el CRUD para dichas matriculas (utilice alova)
+Nombre del commit: "feature/Ejercicio 2"

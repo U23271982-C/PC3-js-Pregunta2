@@ -52,5 +52,25 @@
       "id": "102",
       "nombre_curso": "Node.js Básico"
     }
+  ],
+  "matriculas": [
+    {
+      "id": "1",
+      "alumnoId": "1",
+      "cursoId": "101",
+      "fechaMatricula": "2023-10-27"
+    },
+    {
+      "alumnoId": "2",
+      "cursoId": "102",
+      "fechaMatricula": "2024-01-01",
+      "id": "2c89"
+    },
+    {
+      "id": "b26f",
+      "alumnoId": "2",
+      "cursoId": "102",
+      "fechaMatricula": "2023-12-01"
+    }
   ]
 }
